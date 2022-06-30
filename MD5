@@ -1,0 +1,11 @@
+e8fe79b6b0316ef8542dc97a789e4c4e *DESCRIPTION
+a724420e2e4cff9753ba745c57197dfa *NAMESPACE
+8482a00042ea1c7df16f7122f0c31a77 *R/FitBandsPlot.R
+5caa9d063946852e6c4c52af94be76cf *R/HypothesisTestFunctionalData.R
+ddec746df27bec40ac8c1563c0e361f4 *R/estimate_CI_bands.R
+8cee25f2ac009107afae3dfcb3d4ca96 *R/estimate_beta_functions.R
+6738cc43e2b7c188afffb4d710175f54 *R/get_bootstrap_null_distr.R
+ea88486102a9b97640731b88fb220c89 *R/myfitbetaplot.R
+8988be10135340fea5c00d33c852a160 *R/replaceMessage.R
+cf62d467e6be889f0bfad37f66759ce1 *man/FitBandsPlot.Rd
+1613b736d23015dec4ae078e78bbe2fc *man/HypothesisTestFunctionalData.Rd

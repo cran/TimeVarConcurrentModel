@@ -1,0 +1,8 @@
+export(FitBandsPlot)
+export(HypothesisTestFunctionalData)
+S3method(FitBandsPlot, default)
+S3method(HypothesisTestFunctionalData, default)
+importFrom("fda","fdPar","smooth.basis","fRegress","vec2Lfd","eval.fd","is.fd","is.fdPar","fRegress.stderr","create.fourier.basis")
+importFrom("Bolstad2","sintegral")
+importFrom("graphics", "lines", "par", "polygon", "title")
+importFrom("stats", "cov")
